@@ -1,13 +1,19 @@
-.jumbotron {
-  background-color: salmon;
-  font-style: italic;
-  text-align: center;
+.nav-pills {
+  text-align: right;
 }
 .container {
-background-image: url(../images/images.jpeg);
+background-image: url(../images/imagelap.jpeg);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
-color:black;
-font-size: 24;
+color:white;
+}
+.list-group {
+  border: none;
+}
+.container {
+  font-size: 20px;
+}
+h1 {
+  text-align: center;
 }
