@@ -1,0 +1,13 @@
+.jumbotron {
+  background-color: salmon;
+  font-style: italic;
+  text-align: center;
+}
+.container {
+background-image: url(../images/images.jpeg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+color:black;
+font-size: 24;
+}
